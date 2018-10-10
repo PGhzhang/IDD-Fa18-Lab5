@@ -25,7 +25,7 @@ Include here:
 
 1. Your Arduino code.
 
-'''
+```
 #include <Servo.h> 
 
 #define servoPin  10
@@ -79,15 +79,18 @@ void loop()
 
   delay(20);
 }
-'''
+```
 
 2. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
+
+(I drawed the boppr on the computer in MakerLab so I didn't have the file. Some designs of the arm are shown in the picture below. )
+
 3. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
 
 4. A video of your useless box in action.
 
-My final product SORT OF works. At first, I placed my servo on the bottom of the box and tried to make a L shape hopper. My strategy was to make the hopper rotate 120 degress and hit the switch. However, the problem I ran into is that the hopper is too weak to push the switch. I started with cardboard and then moved to acrylic. I aslo tried different designs of the hopper but none of them worked out perfectly. Since I didn't really know how to draw shapes in illustrator, it was hard to make the ideal hopper. I made it to work ultimately by elongating the switch. The idea is that the longer the arm of force, the smaller the force. I filmed a video of the hopper pushing the switch back after user pushing the switch. But my hopper is too large to fit in the box though. I think the hardest part of this project is to design the hopper which requires mechanical engineering knowledge. 
+My final product SORT OF works. At first, I placed my servo on the bottom of the box and tried to make a L shape bopper. My strategy was to make the bopper rotate 120 degress and hit the switch. However, the problem I ran into is that the bopper is too weak to push the switch. I started with cardboard and then moved to acrylic. I aslo tried different designs of the bopper but none of them worked out perfectly. Since I didn't really know how to draw shapes in illustrator, it was hard to make the ideal bopper. I made it to work ultimately by elongating the switch. The idea is that the longer the arm of force, the smaller the force. I filmed a video of the bopper pushing the switch back after user pushing the switch. But my bopper is too large to fit in the box though. I think the hardest part of this project is to design the bopper which requires mechanical engineering knowledge. 
 
 Some of the hoppers I tried:
 

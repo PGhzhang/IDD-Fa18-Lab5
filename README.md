@@ -11,10 +11,13 @@
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+![alt text](https://github.com/PGhzhang/IDD-Fa18-Lab5/blob/master/IMG_6420.jpg)
 
 ## Electronics
 
 **c. Upload code & a photo of your electronic circuit here.**
+![alt text](https://github.com/PGhzhang/IDD-Fa18-Lab5/blob/master/IMG_6421.jpg)
+
 
 ## Putting it All Together
 

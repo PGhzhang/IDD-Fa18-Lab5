@@ -4,7 +4,7 @@
 
 **a. Include a photo of your printed part here.**
 
-![alt text] (https://github.com/PGhzhang/IDD-Fa18-Lab5/blob/master/IMG_6419.jpg)
+![alt text](https://github.com/PGhzhang/IDD-Fa18-Lab5/blob/master/IMG_6419.jpg)
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 

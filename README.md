@@ -85,8 +85,10 @@ void loop()
 
 (I drawed the boppr on the computer in MakerLab so I didn't have the file. Some designs of the arm are shown in the picture below. )
 
+
 3. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
+![alt text](https://github.com/PGhzhang/IDD-Fa18-Lab5/blob/master/IMG_6422.jpg)
 
 4. A video of your useless box in action.
 
